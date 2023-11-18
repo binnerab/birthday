@@ -23,7 +23,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "Happy birthday": "./imgs/1.jpg", 
+        //"Happy birthday": "./imgs/1.jpg", 
         //"心爱的小可爱": "./imgs/xiaokeai.png",
       
     },
